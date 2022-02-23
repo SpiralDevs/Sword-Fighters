@@ -1,0 +1,13 @@
+--------Sword Fighters Update Plans--------
+
+
+
+--------v0.2.60 Update Plans--------
+
+Add GUI (Health bar, player elims, time (top-centered), player name top left)
+
+Account wise: Player names, Random Name Generator(right next to nameTF)
+
+use F12 to take a screens shot
+
+Jump animation
