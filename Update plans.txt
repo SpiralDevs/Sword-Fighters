@@ -1,13 +1,21 @@
---------Sword Fighters Update Plans--------
 
 
 
---------v0.2.60 Update Plans--------
 
-Add GUI (Health bar, player elims, time (top-centered), player name top left)
+--------Update Plans--------
 
-Account wise: Player names, Random Name Generator(right next to nameTF)
+Add GUI (player elims, time (top-centered))
 
-use F12 to take a screens shot
+Random Name Generator(right next to nameTF)
 
-Jump animation
+Death Animation
+
+Player ID in account menu with copy to clipboard button
+
+Find game button
+
+Either add collision around map or once the player falls off map they die and get the game over screen
+
+player list in game - tab
+
+if the player's current name is < 1 it will automaticlly generate a name for them like "Sword Fighter 273" (the name will always be "Sword Fighter " then a random number from 69-420 hehe lol0)
