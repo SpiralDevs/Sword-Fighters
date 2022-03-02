@@ -53,3 +53,4 @@ DM Spiral#1234 on Discord for suggestions
 Channge Log
 
 v0.3.50
+ ^Added audio when moving
